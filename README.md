@@ -1,3 +1,3 @@
 # google-homepage
 
-Did you see that ludicrous display last night? What was Wenger thinking sending Walcott out so early?
+Google homepage for http://www.theodinproject.com/web-development-101/html-css
